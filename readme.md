@@ -1,0 +1,1 @@
+# Bu repo shell scripting ile ilgili kişisel çalışmalarımı içerir.
